@@ -1,3 +1,5 @@
+
+
 .linkFont{
     color: white;
     text-decoration: none;
@@ -9,4 +11,6 @@ button{
 
 .container{
     background-color: gray;
+    /* display: block; */
+    text-align: center;
 }
