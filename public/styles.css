@@ -1,4 +1,7 @@
-
+header {
+    background-color: aqua;
+    height: 8em;
+}
 
 .linkFont{
     color: white;
@@ -13,4 +16,12 @@ button{
     background-color: gray;
     /* display: block; */
     text-align: center;
+}
+
+.noteTaker{
+  margin-top: -2em;
+}
+
+.head{
+   text-decoration: none;
 }
